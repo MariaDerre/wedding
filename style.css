@@ -48,7 +48,7 @@ body{
     color: #000000;
 }
 .for-box{
-    background-image: https://github.com/MariaDerre/wedding/blob/6ba24e9bc2363ea761ffc2f578db2753eda340ab/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%201.jpg ;
+    background-image: url (wed.jpg) ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
