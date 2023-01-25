@@ -10,7 +10,7 @@ body{
     padding-right: calc(50% - 600px);
   }
 .top{
-    background-image: url (https://github.com/MariaDerre/wedding/blob/4a24f3034093c9f22ac8eae25c191cf0f1e0aac3/TOP.png);
+    background-image: url (./TOP.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
