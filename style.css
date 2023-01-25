@@ -10,7 +10,7 @@ body{
     padding-right: calc(50% - 600px);
   }
 .top{
-    background-image: url (../TOP.png);
+    background-image: url (./TOP.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -88,7 +88,7 @@ body{
   }
   
   .for_item_1 {
-    background-image: url (https://github.com/MariaDerre/wedding/blob/a0128c52f9243ef0638095d251cb46c1eb6e7b3b/Download2.jpg);
+    background-image: url (./wedding//Download2.jpg);
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
