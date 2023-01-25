@@ -10,7 +10,7 @@ body{
     padding-right: calc(50% - 600px);
   }
 .top{
-    background-image: url(img/top.jpg);
+    background-image: url(top.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -141,7 +141,7 @@ body{
     color: #000000;
   }
   .footer{
-    background-image: url(img/загрузка\ 1.jpg);
+    background-image: url(footer.jpg);
     height: 1150px;
   }
   .footer_heading{
