@@ -100,7 +100,7 @@ body{
   }
   
   .for_item_2 {
-    background-image: url (/wedding/Download2.jpg) ;
+    background-image: url (./wedding/Download2.jpg) ;
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
