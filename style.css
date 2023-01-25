@@ -143,6 +143,9 @@ body{
   .footer{
     background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/footer.jpg;
     height: 1150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   .footer_heading{
     font-style: normal;
