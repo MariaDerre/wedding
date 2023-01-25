@@ -10,7 +10,7 @@ body{
     padding-right: calc(50% - 600px);
   }
 .top{
-    background-image: url(https://github.com/MariaDerre/wedding/blob/acea939168340c5a8d8911c8d22e259ac350b2f0/top.jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/acea939168340c5a8d8911c8d22e259ac350b2f0/top.jpg;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -88,7 +88,7 @@ body{
   }
   
   .for_item_1 {
-    background-image: url(img/загрузка\ \(2\).jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(2).jpg;
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -99,7 +99,7 @@ body{
   }
   
   .for_item_2 {
-    background-image: url(img/загрузка\ \(2\).jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(2).jpg;
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -110,7 +110,7 @@ body{
   }
   
   .for_item_3 {
-    background-image: url(img/загрузка\ \(2\).jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(2).jpg;
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -121,7 +121,7 @@ body{
   }
   
   .for_item_4 {
-    background-image: url(img/загрузка\ \(2\).jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(2).jpg;
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -132,7 +132,7 @@ body{
   }
   
   .for_item_5 {
-    background-image: url(img/загрузка\ \(2\).jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20(2).jpg;
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -141,7 +141,7 @@ body{
     color: #000000;
   }
   .footer{
-    background-image: url(footer.jpg);
+    background-image: https://github.com/MariaDerre/wedding/blob/f1bdc5f77509a2fb9307d61a6ba3b95779bcc563/footer.jpg;
     height: 1150px;
   }
   .footer_heading{
