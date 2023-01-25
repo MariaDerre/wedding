@@ -4,7 +4,7 @@
 }
 body{
     font-family: 'Inter', sans-serif;
-        background: linear-gradient(45deg, #f1e1fd, #C5DDE8);
+        background: linear-gradient(45deg, #f9f0ff, #e9f8ff);
 }
 .center {
     padding-left: calc(50% - 600px);
