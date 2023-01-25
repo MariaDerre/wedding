@@ -48,7 +48,7 @@ body{
     color: #000000;
 }
 .for-box{
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/wed.jpg);
+    background-image: url(wed.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -88,7 +88,7 @@ body{
   }
   
   .for_item_1 {
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/down2.jpg);
+    background-image: url(down2.jpg);
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -99,7 +99,7 @@ body{
   }
   
   .for_item_2 {
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/down2.jpg);
+    background-image: url(down2.jpg);
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -110,7 +110,7 @@ body{
   }
   
   .for_item_3 {
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/down2.jpg);
+    background-image: url(down2.jpg);
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -121,7 +121,7 @@ body{
   }
   
   .for_item_4 {
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/down2.jpg);
+    background-image: url(down2.jpg);
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -132,7 +132,7 @@ body{
   }
   
   .for_item_5 {
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/down2.jpg);
+    background-image: url(down2.jpg);
     font-style: normal;
     font-weight: 200;
     font-size: 40px;
@@ -141,7 +141,7 @@ body{
     color: #000000;
   }
   .footer{
-    background-image: url(https://github.com/MariaDerre/wedding/blob/096d0b84d520190c6e775e5122749804d643aeb9/down1.jpg) ;
+    background-image: url(down1.jpg) ;
     height: 1150px;
     background-repeat: no-repeat;
     background-position: center;
